@@ -1,0 +1,35 @@
+
+
+img{
+  width: 200px;
+  height: 200px;
+}
+button{
+  margin-left: 4px;
+  background-color: black;
+  color: WHITE;
+}
+
+parts{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+button{
+  font-size: 15px;
+  padding: 5px;
+}
+
+h2{
+  margin-left: 20px;
+}
+
+#heading{
+  font-size: 50px;
+  font-family: cursive;
+}
+
+i1:hover{
+  transform: scaleY(1.5);
+}
